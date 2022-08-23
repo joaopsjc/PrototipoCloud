@@ -75,6 +75,7 @@
     <Folder Include="restApi\templates\restApi\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
